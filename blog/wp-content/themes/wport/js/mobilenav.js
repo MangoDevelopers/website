@@ -1,0 +1,9 @@
+   jQuery(document).ready(function()
+    {
+    jQuery("#toggle").click(function()
+        {
+        jQuery(".span").toggle();
+        }
+        );
+    }
+    );
